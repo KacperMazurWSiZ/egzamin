@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Figura.cpp" />
     <ClCompile Include="w66057_zaliczenie.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Figura.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

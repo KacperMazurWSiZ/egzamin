@@ -18,5 +18,13 @@
     <ClCompile Include="w66057_zaliczenie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Figura.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Figura.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
